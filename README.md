@@ -1,14 +1,22 @@
 ### iOS-MENTORING
 > 멘토링 자료 업로드 & Discussions
 
+**멘토링 목표**: 멘티 별 개인 앱 출시
+
+**멘티**: 1~4학년 재학생
+
+**진행방식**: 두 개의 분반으로 목, 금 나누어 2시간씩 진행
+  
 ##
 
+
 ### 활동내용
-> 멘토링 목표: 멘티 별 개인 앱 출시
 
 | 주차  | 학습 주제 | 강의자료 |
 |------|---------|---|
-| 1주차 | 프레임워크 소개 <br> HIG, MVC, 레이아웃 | [강의자료](https://github.com/Kyxxn/iOS-MENTORING/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20-%20iOS%20%EB%A9%98%ED%86%A0%EB%A7%81.key) |
+| 1주차 | 프레임워크 소개 <br> HIG, MVC, 레이아웃 | [강의자료](https://github.com/Kyxxn/iOS-MENTORING/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20-%20OT.pdf) |
+| 2주차 | 프로젝트 구조 살펴보기 <br> 색상과 이미지 리소스 관리 <br> UI Components와 View 프로토콜  | [강의자료](https://github.com/Kyxxn/iOS-MENTORING/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8%20-%20UI%20Components%20%26%20View%20Protocol.pdf) |
+
 
 ##
 
